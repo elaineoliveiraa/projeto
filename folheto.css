@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{
+    background-image: url('direito.jpg');
+    background-size: 100%;
+}
+ h1{
+       background-color: bisque;
+ }
+
